@@ -1,0 +1,6 @@
+# Environments
+.env
+.venv
+
+# Files
+speech-recognition/realtime_openai/api_secrets.py

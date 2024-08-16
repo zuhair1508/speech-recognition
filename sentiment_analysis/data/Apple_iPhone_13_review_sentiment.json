@@ -1,0 +1,818 @@
+[
+    {
+        "text": "Autumn is here, and with it, the new iPhone.",
+        "start": 240,
+        "end": 2686,
+        "sentiment": "POSITIVE",
+        "confidence": 0.7183607816696167,
+        "speaker": null
+    },
+    {
+        "text": "It's the iPhone 13.",
+        "start": 2798,
+        "end": 4278,
+        "sentiment": "POSITIVE",
+        "confidence": 0.6589470505714417,
+        "speaker": null
+    },
+    {
+        "text": "You get a faster chipset, a bigger battery, a bigger sensor on the main camera, and a smaller notch.",
+        "start": 4454,
+        "end": 10342,
+        "sentiment": "POSITIVE",
+        "confidence": 0.7207970023155212,
+        "speaker": null
+    },
+    {
+        "text": "Not too shabby.",
+        "start": 10486,
+        "end": 11646,
+        "sentiment": "POSITIVE",
+        "confidence": 0.49826639890670776,
+        "speaker": null
+    },
+    {
+        "text": "But is all of that enough to convince people to upgrade to the new model?",
+        "start": 11718,
+        "end": 15102,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7647947669029236,
+        "speaker": null
+    },
+    {
+        "text": "I'm will for GSmarena and let's find out in our full review.",
+        "start": 15246,
+        "end": 18690,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.8064985871315002,
+        "speaker": null
+    },
+    {
+        "text": "Looks wise, the iPhone 13 doesn't exactly break the mold.",
+        "start": 23550,
+        "end": 27078,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.516029953956604,
+        "speaker": null
+    },
+    {
+        "text": "It brings the same shape and design as last years iPhone twelve, but with one striking difference.",
+        "start": 27214,
+        "end": 32902,
+        "sentiment": "POSITIVE",
+        "confidence": 0.5368199348449707,
+        "speaker": null
+    },
+    {
+        "text": "The notch cutout for the selfie cam and Face ID is smaller this time around.",
+        "start": 33046,
+        "end": 37174,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7859699726104736,
+        "speaker": null
+    },
+    {
+        "text": "This might not seem like a big deal, but ever since Apple introduced the notch to its iPhones, theyve stayed committed to it.",
+        "start": 37342,
+        "end": 43190,
+        "sentiment": "POSITIVE",
+        "confidence": 0.874721109867096,
+        "speaker": null
+    },
+    {
+        "text": "So now that theyve finally changed it, who knows whats next on the horizon?",
+        "start": 43270,
+        "end": 47086,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7671490907669067,
+        "speaker": null
+    },
+    {
+        "text": "There are a couple of other subtleties you may notice when examining the new iPhone.",
+        "start": 47278,
+        "end": 51438,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7814842462539673,
+        "speaker": null
+    },
+    {
+        "text": "It is slightly heavier than last year, 10 grams to be exact.",
+        "start": 51574,
+        "end": 55586,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7039898037910461,
+        "speaker": null
+    },
+    {
+        "text": "And the rear cameras have a different diagonal arrangement, maybe because of the larger sensor in the main camera, but at its core, this is the elegant iPhone design were used to.",
+        "start": 55778,
+        "end": 65770,
+        "sentiment": "POSITIVE",
+        "confidence": 0.6130548715591431,
+        "speaker": null
+    },
+    {
+        "text": "The iPhone 13 has a flat corning made glass back with that signature Apple logo.",
+        "start": 65890,
+        "end": 71186,
+        "sentiment": "POSITIVE",
+        "confidence": 0.8375223278999329,
+        "speaker": null
+    },
+    {
+        "text": "The phone is well balanced and easy to wield and like last year, offers a pretty good grip as well because of the flat and edgy aluminum frame.",
+        "start": 71298,
+        "end": 79150,
+        "sentiment": "POSITIVE",
+        "confidence": 0.9686278700828552,
+        "speaker": null
+    },
+    {
+        "text": "And of course the iPhone 13 brings IP 68 rated water and dust resistance.",
+        "start": 79620,
+        "end": 84444,
+        "sentiment": "POSITIVE",
+        "confidence": 0.7975658178329468,
+        "speaker": null
+    },
+    {
+        "text": "Apple claims itll survive for half an hour under 6 meters of water.",
+        "start": 84572,
+        "end": 88440,
+        "sentiment": "POSITIVE",
+        "confidence": 0.7639449238777161,
+        "speaker": null
+    },
+    {
+        "text": "The screen of the iPhone 13 is similar to last years.",
+        "start": 89700,
+        "end": 92788,
+        "sentiment": "POSITIVE",
+        "confidence": 0.571515679359436,
+        "speaker": null
+    },
+    {
+        "text": "Its a 6.1 inch Super Retina XDR oled protected by ceramic shield, some of the toughest glass there is.",
+        "start": 92884,
+        "end": 100000,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.5322819352149963,
+        "speaker": null
+    },
+    {
+        "text": "While this years iPhone 13 Pro brings a fast 120 Hz refresh rate, the regular model still sticks to a standard 60.",
+        "start": 100420,
+        "end": 108278,
+        "sentiment": "POSITIVE",
+        "confidence": 0.5909720659255981,
+        "speaker": null
+    },
+    {
+        "text": "Still, there is one advantage you get here over last year and thats the max brightness.",
+        "start": 108444,
+        "end": 112946,
+        "sentiment": "POSITIVE",
+        "confidence": 0.746797502040863,
+        "speaker": null
+    },
+    {
+        "text": "We measured around 800 nits here with the slider compared to around 640 nits on the iPhone twelve.",
+        "start": 113098,
+        "end": 119146,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.8719158172607422,
+        "speaker": null
+    },
+    {
+        "text": "So using the phone out in the sun should be even more comfortable.",
+        "start": 119298,
+        "end": 122790,
+        "sentiment": "POSITIVE",
+        "confidence": 0.847634494304657,
+        "speaker": null
+    },
+    {
+        "text": "The panel has outstanding color accuracy too, no matter what brightness setting its on.",
+        "start": 123090,
+        "end": 127954,
+        "sentiment": "POSITIVE",
+        "confidence": 0.9349417686462402,
+        "speaker": null
+    },
+    {
+        "text": "And of course you get other great features here like deep OLED blacks, Truetone and HDr ten and Dolby vision support.",
+        "start": 128042,
+        "end": 135750,
+        "sentiment": "POSITIVE",
+        "confidence": 0.9436548948287964,
+        "speaker": null
+    },
+    {
+        "text": "For audio.",
+        "start": 136560,
+        "end": 137240,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7691903710365295,
+        "speaker": null
+    },
+    {
+        "text": "The iPhone 13 has a pair of stereo speakers, one at the bottom and the other at the top which doubles as an earpiece.",
+        "start": 137280,
+        "end": 143584,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.5509473085403442,
+        "speaker": null
+    },
+    {
+        "text": "They are well balanced and loud, scoring very good on our loudness charts and the sound quality here is exceptional.",
+        "start": 143752,
+        "end": 150300,
+        "sentiment": "POSITIVE",
+        "confidence": 0.9803658127784729,
+        "speaker": null
+    },
+    {
+        "text": "Of course theres no 3.5 mm jack and you need to use an Apple lighting adapter to plug in traditional headphones.",
+        "start": 155640,
+        "end": 161700,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.6143482327461243,
+        "speaker": null
+    },
+    {
+        "text": "One difference from last years model is that the iPhone 13 has doubled base storage and theres also an option to get 512 GB of storage on board.",
+        "start": 162090,
+        "end": 170106,
+        "sentiment": "POSITIVE",
+        "confidence": 0.5973635315895081,
+        "speaker": null
+    },
+    {
+        "text": "Not expandable of course.",
+        "start": 170218,
+        "end": 171710,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.5355013012886047,
+        "speaker": null
+    },
+    {
+        "text": "And the iPhone 13 brings a new chipset, the latest Apple a 15 bionic.",
+        "start": 172330,
+        "end": 177362,
+        "sentiment": "POSITIVE",
+        "confidence": 0.9368111491203308,
+        "speaker": null
+    },
+    {
+        "text": "This is one of the most powerful chipsets you can get on a phone and it provides incredible performance as well as 5g connectivity.",
+        "start": 177506,
+        "end": 184698,
+        "sentiment": "POSITIVE",
+        "confidence": 0.9874706864356995,
+        "speaker": null
+    },
+    {
+        "text": "In CPU tests, the iPhone 13 tops the charts, scoring up to 15% higher than the iPhone twelve GPU.",
+        "start": 184874,
+        "end": 192074,
+        "sentiment": "POSITIVE",
+        "confidence": 0.941349983215332,
+        "speaker": null
+    },
+    {
+        "text": "Performance is a different story though because Apple has equipped this years Pro models with an extra powerful gpu which has five cores instead of four.",
+        "start": 192122,
+        "end": 200634,
+        "sentiment": "POSITIVE",
+        "confidence": 0.6699234247207642,
+        "speaker": null
+    },
+    {
+        "text": "So the vanilla iPhone 13 doesnt quite match the graphics scores of the 13 Pro or Pro max.",
+        "start": 200802,
+        "end": 206630,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.5968412756919861,
+        "speaker": null
+    },
+    {
+        "text": "Still it does a great job, significantly better than last years model and the heaviest games run smoothly even on their highest settings.",
+        "start": 206970,
+        "end": 214986,
+        "sentiment": "POSITIVE",
+        "confidence": 0.9773960113525391,
+        "speaker": null
+    },
+    {
+        "text": "Plus the thermals arent too bad here either.",
+        "start": 215178,
+        "end": 217430,
+        "sentiment": "POSITIVE",
+        "confidence": 0.7792456746101379,
+        "speaker": null
+    },
+    {
+        "text": "The iPhone 13 has a 3240 mAh battery capacity larger than the 2815 capacity on the iPhone twelve and battery life is better here.",
+        "start": 218150,
+        "end": 229062,
+        "sentiment": "POSITIVE",
+        "confidence": 0.9470542669296265,
+        "speaker": null
+    },
+    {
+        "text": "The new model scored an 89 hours endurance rating in our tests and allows for at least three more hours of video playback or web browsing.",
+        "start": 229166,
+        "end": 236582,
+        "sentiment": "POSITIVE",
+        "confidence": 0.8183982372283936,
+        "speaker": null
+    },
+    {
+        "text": "But with the larger battery, charging speed is a bit slower.",
+        "start": 236766,
+        "end": 239998,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.6032456755638123,
+        "speaker": null
+    },
+    {
+        "text": "There is no charger in the box, but with Apples 20 watt charger able to charge the iPhone 13 from zero to 54% in half an hour.",
+        "start": 240134,
+        "end": 248268,
+        "sentiment": "POSITIVE",
+        "confidence": 0.8410807251930237,
+        "speaker": null
+    },
+    {
+        "text": "Theres also support for wireless charging which goes up to 15 watts if you use a MagSafe charger.",
+        "start": 248404,
+        "end": 253580,
+        "sentiment": "POSITIVE",
+        "confidence": 0.7558698654174805,
+        "speaker": null
+    },
+    {
+        "text": "Now onto the iPhone thirteens dual cameras, theres a twelve MP main camera and a twelve MP ultrawide just like last year, but this time around the main cam features a new sensor with larger pixels as well as sensor shift stabilization.",
+        "start": 253740,
+        "end": 267452,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.5649186968803406,
+        "speaker": null
+    },
+    {
+        "text": "Twelve mp photos from the main camera are rich in detail with great contrast and low noise.",
+        "start": 267636,
+        "end": 273290,
+        "sentiment": "POSITIVE",
+        "confidence": 0.9363176822662354,
+        "speaker": null
+    },
+    {
+        "text": "The dynamic range is not super wide but is balanced and natural and colors are true to life.",
+        "start": 274470,
+        "end": 280170,
+        "sentiment": "POSITIVE",
+        "confidence": 0.8445270657539368,
+        "speaker": null
+    },
+    {
+        "text": "But like last year, sometimes the foliage presentation comes out looking smeared.",
+        "start": 280550,
+        "end": 285126,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.7025358080863953,
+        "speaker": null
+    },
+    {
+        "text": "We expected an improvement in this regard because of the bigger sensor.",
+        "start": 285278,
+        "end": 288850,
+        "sentiment": "POSITIVE",
+        "confidence": 0.8100415468215942,
+        "speaker": null
+    },
+    {
+        "text": "Actually if you compare the iPhone thirteens photos to the iPhone twelves they are basically indistinguishable and this is a pattern that continued through our testing.",
+        "start": 289790,
+        "end": 298354,
+        "sentiment": "POSITIVE",
+        "confidence": 0.5430083274841309,
+        "speaker": null
+    },
+    {
+        "text": "Despite the new sensor.",
+        "start": 298462,
+        "end": 299910,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7908217310905457,
+        "speaker": null
+    },
+    {
+        "text": "The main camera can shoot portraits and it does a great job.",
+        "start": 300530,
+        "end": 303730,
+        "sentiment": "POSITIVE",
+        "confidence": 0.9636920690536499,
+        "speaker": null
+    },
+    {
+        "text": "The subjects are sharp and detailed and exposure is balanced.",
+        "start": 303890,
+        "end": 307714,
+        "sentiment": "POSITIVE",
+        "confidence": 0.6590206027030945,
+        "speaker": null
+    },
+    {
+        "text": "Subject separation is proficient though sometimes messy hair or an object in the background may mess it up.",
+        "start": 307842,
+        "end": 313790,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.4932025671005249,
+        "speaker": null
+    },
+    {
+        "text": "Twelve megapixel ultra wide photos are quite wide and have alright resolved detail, great contrast and accurate colors.",
+        "start": 314370,
+        "end": 321154,
+        "sentiment": "POSITIVE",
+        "confidence": 0.9244177937507629,
+        "speaker": null
+    },
+    {
+        "text": "The dynamic range is again balanced and not that wide foliage looks worse here than on the main cam with grass and trees sometimes looking like an oil painting.",
+        "start": 321322,
+        "end": 330612,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.45529088377952576,
+        "speaker": null
+    },
+    {
+        "text": "Heres a comparison with the iPhone twelve and the quality is the same.",
+        "start": 330796,
+        "end": 334260,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.6552414298057556,
+        "speaker": null
+    },
+    {
+        "text": "Neither the camera nor the processing have changed in low light situations.",
+        "start": 334420,
+        "end": 339540,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.6285088658332825,
+        "speaker": null
+    },
+    {
+        "text": "Night mode kicks in automatically and its super fast to shoot and process.",
+        "start": 339620,
+        "end": 343520,
+        "sentiment": "POSITIVE",
+        "confidence": 0.563205897808075,
+        "speaker": null
+    },
+    {
+        "text": "The photos are well balanced both noise and exposure wise and have an incredible amount of detail, excellent color saturation, great contrast and good dynamic range.",
+        "start": 344020,
+        "end": 353820,
+        "sentiment": "POSITIVE",
+        "confidence": 0.9778029918670654,
+        "speaker": null
+    },
+    {
+        "text": "Night mode photos taken with the iPhone twelve are indistinguishable so it turns out the larger sensor on the main cam and the new type with stabilization arent really making a difference.",
+        "start": 354440,
+        "end": 364020,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.47739481925964355,
+        "speaker": null
+    },
+    {
+        "text": "You can turn off the night mode and the result is a more true to life looking photo.",
+        "start": 364880,
+        "end": 368968,
+        "sentiment": "POSITIVE",
+        "confidence": 0.800186276435852,
+        "speaker": null
+    },
+    {
+        "text": "These are a little softer and the colors are more washed out but you still have good detail, contrast, dynamic range and exposure.",
+        "start": 369104,
+        "end": 376420,
+        "sentiment": "POSITIVE",
+        "confidence": 0.8182604908943176,
+        "speaker": null
+    },
+    {
+        "text": "Heres a comparison with the iPhone twelve.",
+        "start": 377530,
+        "end": 379602,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.86390620470047,
+        "speaker": null
+    },
+    {
+        "text": "Again no differences here.",
+        "start": 379746,
+        "end": 381830,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7149935960769653,
+        "speaker": null
+    },
+    {
+        "text": "The ultrawide camera produces acceptable photos in the dark thanks to the auto night mode.",
+        "start": 382370,
+        "end": 386946,
+        "sentiment": "POSITIVE",
+        "confidence": 0.8686895370483398,
+        "speaker": null
+    },
+    {
+        "text": "They have balanced exposure and good contrast and color saturation.",
+        "start": 387058,
+        "end": 390674,
+        "sentiment": "POSITIVE",
+        "confidence": 0.859218955039978,
+        "speaker": null
+    },
+    {
+        "text": "They are still rather soft and noisy though disabling night mode on the ultrawide isnt recommended.",
+        "start": 390802,
+        "end": 396818,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.857925534248352,
+        "speaker": null
+    },
+    {
+        "text": "The images are much darker and noisier with smeared detail and desaturated colors.",
+        "start": 396994,
+        "end": 402070,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.8031425476074219,
+        "speaker": null
+    },
+    {
+        "text": "Lets move on to selfies.",
+        "start": 403180,
+        "end": 404660,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7059279084205627,
+        "speaker": null
+    },
+    {
+        "text": "They are outstanding, some of the best weve seen to date.",
+        "start": 404780,
+        "end": 407636,
+        "sentiment": "POSITIVE",
+        "confidence": 0.9857844710350037,
+        "speaker": null
+    },
+    {
+        "text": "They have spectacular result of detail, praiseworthy contrast and dynamic range, low noise and accurate colors.",
+        "start": 407748,
+        "end": 414400,
+        "sentiment": "POSITIVE",
+        "confidence": 0.9527261257171631,
+        "speaker": null
+    },
+    {
+        "text": "Videos can be captured in up to 4k resolution at 60 FPS with all three cameras, all with great stabilization.",
+        "start": 415180,
+        "end": 422164,
+        "sentiment": "POSITIVE",
+        "confidence": 0.8308932781219482,
+        "speaker": null
+    },
+    {
+        "text": "Footage from the main cam is spectacular with excellent detail, natural looking sharpness, great contrast, exceptional dynamic range and accurate colors.",
+        "start": 422332,
+        "end": 431090,
+        "sentiment": "POSITIVE",
+        "confidence": 0.9792659878730774,
+        "speaker": null
+    },
+    {
+        "text": "The 4k videos from the ultrawide camera are equally brilliant.",
+        "start": 431630,
+        "end": 435054,
+        "sentiment": "POSITIVE",
+        "confidence": 0.9628651142120361,
+        "speaker": null
+    },
+    {
+        "text": "They have to be among the most detailed weve seen as far as ultrawide cameras go.",
+        "start": 435182,
+        "end": 439490,
+        "sentiment": "POSITIVE",
+        "confidence": 0.6143810749053955,
+        "speaker": null
+    },
+    {
+        "text": "There is a new feature called cinematic mode on the main and selfie cameras.",
+        "start": 441070,
+        "end": 445086,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7027093172073364,
+        "speaker": null
+    },
+    {
+        "text": "Its shot in 1080p resolution at 30 FPS and it uses advanced portrait mode technology to simulate rack focus.",
+        "start": 445198,
+        "end": 452302,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.822630763053894,
+        "speaker": null
+    },
+    {
+        "text": "The depth map is created in real time and the algorithm decides which subject should be in focus and which should be blurred.",
+        "start": 452486,
+        "end": 459132,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.8503830432891846,
+        "speaker": null
+    },
+    {
+        "text": "You can tweak and change all of that in post as well.",
+        "start": 459236,
+        "end": 462000,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.8811513185501099,
+        "speaker": null
+    },
+    {
+        "text": "Finally, lets go over the iPhone thirteens user interface which is the latest iOS 15 out of the box.",
+        "start": 463700,
+        "end": 469332,
+        "sentiment": "POSITIVE",
+        "confidence": 0.7875421643257141,
+        "speaker": null
+    },
+    {
+        "text": "Its not a major update over iOS 14, but it does bring a few new features.",
+        "start": 469476,
+        "end": 473812,
+        "sentiment": "POSITIVE",
+        "confidence": 0.8325474858283997,
+        "speaker": null
+    },
+    {
+        "text": "For example, there are the focus options.",
+        "start": 473956,
+        "end": 476164,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.8563353419303894,
+        "speaker": null
+    },
+    {
+        "text": "These are basically filter profiles for your notifications and calls which you can switch to depending on your current needs.",
+        "start": 476332,
+        "end": 482320,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.8935773968696594,
+        "speaker": null
+    },
+    {
+        "text": "The Safari web browser has also seen an upgrade.",
+        "start": 482860,
+        "end": 485552,
+        "sentiment": "POSITIVE",
+        "confidence": 0.8437345623970032,
+        "speaker": null
+    },
+    {
+        "text": "The address bar is now at the bottom and easier to reach and you can swipe left and right to switch tabs.",
+        "start": 485676,
+        "end": 491780,
+        "sentiment": "POSITIVE",
+        "confidence": 0.549991250038147,
+        "speaker": null
+    },
+    {
+        "text": "The other new tidbits include improvements in FaceTime, tweaks in the appearance of icons and notifications, an upgraded weather app, and support for new keys in the Apple Wallet.",
+        "start": 492240,
+        "end": 502000,
+        "sentiment": "POSITIVE",
+        "confidence": 0.901225209236145,
+        "speaker": null
+    },
+    {
+        "text": "Still, this is essentially the same interface weve seen before.",
+        "start": 502160,
+        "end": 505304,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.6378621459007263,
+        "speaker": null
+    },
+    {
+        "text": "Of course, for your biometrics there was no fingerprint reader but Apples Face ID, which is fast and secure.",
+        "start": 505472,
+        "end": 511460,
+        "sentiment": "POSITIVE",
+        "confidence": 0.671603262424469,
+        "speaker": null
+    },
+    {
+        "text": "You have home screens which you can add apps or widgets to.",
+        "start": 511970,
+        "end": 515090,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.6851101517677307,
+        "speaker": null
+    },
+    {
+        "text": "Theres a today page on the leftmost panel and an app library over on the right.",
+        "start": 515250,
+        "end": 520314,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.8994886875152588,
+        "speaker": null
+    },
+    {
+        "text": "For more app storage, you can get into the notification center and control center by swiping from the upper left and right corners.",
+        "start": 520402,
+        "end": 527874,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.8368993401527405,
+        "speaker": null
+    },
+    {
+        "text": "The interface is intuitive and responsive, and you get the promise of five years of software updates too.",
+        "start": 528042,
+        "end": 535270,
+        "sentiment": "POSITIVE",
+        "confidence": 0.9010173082351685,
+        "speaker": null
+    },
+    {
+        "text": "So thats apples iPhone 13.",
+        "start": 536740,
+        "end": 538724,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.578784704208374,
+        "speaker": null
+    },
+    {
+        "text": "Its a great phone, one of the best on the market.",
+        "start": 538892,
+        "end": 541508,
+        "sentiment": "POSITIVE",
+        "confidence": 0.9898813366889954,
+        "speaker": null
+    },
+    {
+        "text": "You get the signature iPhone design, which is super durable, and it comes with an even smaller notch.",
+        "start": 541644,
+        "end": 546972,
+        "sentiment": "POSITIVE",
+        "confidence": 0.9345259070396423,
+        "speaker": null
+    },
+    {
+        "text": "Then theres the powerful hardware, the bright screen, superb stereo speakers, and the excellent camera experience both in the day and at night.",
+        "start": 547116,
+        "end": 554840,
+        "sentiment": "POSITIVE",
+        "confidence": 0.9233279228210449,
+        "speaker": null
+    },
+    {
+        "text": "Overall, its worth recommending which youd expect from the latest iPhone.",
+        "start": 555260,
+        "end": 558788,
+        "sentiment": "POSITIVE",
+        "confidence": 0.8677307963371277,
+        "speaker": null
+    },
+    {
+        "text": "But if you have an iPhone twelve already, the differences here are too small to be worth an upgrade.",
+        "start": 558924,
+        "end": 563614,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.47983819246292114,
+        "speaker": null
+    },
+    {
+        "text": "And keep in mind that you dont get a 120 hz refresh rate autofocus on the ultrawide or zoom camera unless you go for one of the pro models.",
+        "start": 563812,
+        "end": 571630,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7060948610305786,
+        "speaker": null
+    },
+    {
+        "text": "Thanks for watching guys.",
+        "start": 572090,
+        "end": 573330,
+        "sentiment": "POSITIVE",
+        "confidence": 0.9504911303520203,
+        "speaker": null
+    },
+    {
+        "text": "Stay safe and see you on the next one.",
+        "start": 573450,
+        "end": 574930,
+        "sentiment": "POSITIVE",
+        "confidence": 0.7296226024627686,
+        "speaker": null
+    }
+]

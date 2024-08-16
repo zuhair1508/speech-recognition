@@ -1,0 +1,10 @@
+matplotlib
+numpy
+pyaudio
+pydub
+ffmpeg
+youtube-dl
+yt-dlp
+streamlit
+websockets
+openai
