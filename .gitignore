@@ -3,4 +3,8 @@
 .venv
 
 # Files
-speech-recognition/realtime_openai/api_secrets.py
+C:\Users\Amirah\Python_Projects\speech-recognition\realtime_openai\api_secrets.py
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
